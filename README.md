@@ -5,13 +5,11 @@ Here's a little about my Journey.
 
 **After graduating, I started working for [Underwriters Labs](https://www.ul.com/)**. I was a software developer for internal applications, where privacy and data consistency are key. I've learned from some of the best developers around and become advanced in databasing, web development, and UX design.
 
-**I decided to further my education** by enrolling in the [MIDS program at UC Berkeley](https://www.ischool.berkeley.edu/). I'm currently in my third semester and loving my classes. I haven't compiled a large body of work yet, but a few of my statistical analysis and meachine learning examples can be found in my [projects repository](https://github.com/chaukap/Projects). I'm specifically interested in unsupervised learning and social networks.
-
-**Check out my hobby project!** [Reflectify](https://reflectify.io) is a project I use to learn more about unsupervised learning by exploring my Spotify playlists and songs. The app is still in development so you'll have to request access. I try to check requests daily but bare with me during the holidays!
+**I decided to further my education** by enrolling in the [MIDS program at UC Berkeley](https://www.ischool.berkeley.edu/). I finished the program in August of this year and am actively applying to psoitions. I haven't compiled a large body of work yet, but a few of my statistical analysis and meachine learning examples can be found in my [projects repository](https://github.com/chaukap/Projects). I'm specifically interested in sprivacy enhancing technologies and completed my [capstone project](https://simpledifferentialprivacy.com) on differential privacy.
 
 **When I'm not studying,** I enjoy hiking, snowshoing, plantkeeping and playing the ukulele (at least, trying to play the ukulele 😉). 
 
-**My next steps are** to transition into a data science role. I'm open to internships or full-time positions, so add me on [LinkedIn](https://www.linkedin.com/in/chandler-haukap/) if you think I'd be a good fit at your organization!
+**My next steps are** to transition into a software or data engineering role. Add me on [LinkedIn](https://www.linkedin.com/in/chandler-haukap/) if you think I'd be a good fit at your organization!
 
 
 <!--
