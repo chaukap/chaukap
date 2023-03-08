@@ -1,4 +1,4 @@
-## I'm Chandler (They/Them), a software developer and aspiring software engineer. 
+## I'm Chandler (He/Them), a software developer and aspiring software engineer. 
 Here's a little about my Journey.
 
 **I began programming my freshman year** at the University of Wyoming. My junior year, I began working for the [Dryland Ecology Group](https://github.com/DrylandEcology) where I worked on their ecological model, [STEPWAT2](https://github.com/DrylandEcology/STEPWAT2), and their R wrapper program, [RSFSTEP2](https://github.com/DrylandEcology/rSFSTEP2). I also competed in the [National Cyber League competition](https://github.com/chaukap/NCL-2019-Fall).
