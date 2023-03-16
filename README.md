@@ -9,9 +9,6 @@ Here's a little about my Journey.
 
 **When I'm not studying,** I enjoy hiking, snowshoing, plantkeeping and playing the ukulele (at least, trying to play the ukulele 😉). 
 
-**My next steps are** to transition into a software or data engineering role. Add me on [LinkedIn](https://www.linkedin.com/in/chandler-haukap/) if you think I'd be a good fit at your organization!
-
-
 <!--
 **chaukap/chaukap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
